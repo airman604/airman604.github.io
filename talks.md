@@ -2,8 +2,8 @@
 title: "Airman604 - Talks"
 ---
 
-I've presented talks on a number of cybersecurity related topics. If you'd like me to present any of these
-talks at your conference or meetup, feel free to DM me on Twitter
+I've presented talks on a number of cybersecurity related topics. If you'd like me to present
+any of these talks at your conference or meetup, feel free to DM me on Twitter
 ![Twitter](images/twitter_logo_24.png) [@airman604](https://twitter.com/airman604)
 
 ## Securing Managed Kubernetes
@@ -15,7 +15,8 @@ Talk covering basics of managed Kubernetes security, including:
 - Key security controls for protecting Kubernetes clusters
 - Overview of commercial and open source cloud native security tooling
 
-You’ll come out equipped with understanding of the Kubernetes security landscape and actionable recommendations for securely running workloads in Kubernetes.
+You’ll come out equipped with understanding of the Kubernetes security landscape and actionable
+recommendations for securely running workloads in Kubernetes.
 
 ## Attacking and Securing JWT
 
@@ -24,6 +25,13 @@ Overview of JWT tokens, how they're abused and how to use them securely in your 
 ## Docker Basics for Security Use Cases (workshop)
 
 Practical introduction to Docker, with labs covering security use cases.
+
+## Containers Uncontained - Docker security mistakes I made so you don’t have to!
+
+In this blue team focused talk we review critical Docker security (mis-)configurations I’ve
+seen in the wild. We will consider WHY they are dangerous (there will be demos!) and HOW to
+fix them. The talk is focused on intended (albeit dangerous) functionality, there will be no
+0-days.
 
 ## Practical Threat Modelling
 
