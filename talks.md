@@ -3,8 +3,8 @@ title: "Airman604 - Talks"
 ---
 
 I've presented talks on a number of cybersecurity related topics. If you'd like me to present
-any of these talks at your conference or meetup, feel free to DM me on Twitter
-![Twitter](images/twitter_logo_24.png) [@airman604](https://twitter.com/airman604)
+any of these talks at your conference or meetup, feel free to DM me on BlueSky
+![bsky](images/bsky_logo.png) [@airman604.com](https://bsky.app/profile/airman604.com)
 
 ## Securing Managed Kubernetes
 
