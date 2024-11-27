@@ -2,7 +2,7 @@
 title: "Airman604 - Personal Page"
 ---
 
-Hey there. I'm Amiran Alavidze, aka Airman aka [@airman604.com](https://bsky.app/profile/airman604.com). I'm a cybersecurity advisor to rapidly
+Hey there. I'm Amiran Alavidze aka Airman aka [@airman604.com](https://bsky.app/profile/airman604.com). I'm a cybersecurity advisor to rapidly
 scaling tech companies, with over 20 years of experience. I help companies plan and implement practical, business outcome
 focused solutions to cybersecurity challenges. I'm on the board of
 [OWASP Vancouver](https://www.meetup.com/OWASP-Vancouver-Chapter/) and [DC604](https://www.meetup.com/defcon604/)
